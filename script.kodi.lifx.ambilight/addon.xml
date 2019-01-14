@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addons>
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
     <addon id="script.kodi.lifx.ambilight" version="1.0.9"
       name="Lifx Ambilight" provider-name="merc1031">
     <requires>
@@ -51,18 +50,3 @@
         <datadir zip="true">https://raw.github.com/merc1031/repository.kodi.hps/master/repo/</datadir>
     </extension>
 </addon>
-
-<addon id="repository.kodi.hps" name="Merc1031's Add-On Repository" version="0.0.1" provider-name="merc1031">
-	<extension point="xbmc.addon.repository" name="Merc1031's Add-On Repository">
-		<info compressed="false">http://raw.github.com/merc1031/repository.kodi.hps/master/addons.xml</info>
-		<checksum>http://raw.github.com/merc1031/repository.kodi.hps/master/addons.xml.md5</checksum>
-		<datadir zip="true">http://raw.github.com/merc1031/repository.kodi.hps/master/repo/</datadir>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary>Merc1031's Add-On Repository</summary>
-		<description>Repository of Add-On's by Merc1031</description>
-		<disclaimer></disclaimer>
-		<platform>all</platform>
-	</extension>
-</addon>
-</addons>
