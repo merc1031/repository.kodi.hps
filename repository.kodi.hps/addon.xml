@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addons>
 <addon id="repository.kodi.hps" name="Merc1031's Add-On Repository" version="0.0.1" provider-name="merc1031">
 	<extension point="xbmc.addon.repository" name="Merc1031's Add-On Repository">
 		<info compressed="false">http://raw.github.com/merc1031/repository.kodi.hps/master/addons.xml</info>
@@ -13,4 +12,3 @@
 		<platform>all</platform>
 	</extension>
 </addon>
-</addons>
